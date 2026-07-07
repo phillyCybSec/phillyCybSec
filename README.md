@@ -3,14 +3,13 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Labs</b>
-  - [Active Directory Home Lab](github link)
-  - [Hello World!](github link)
+  - TAM SOC Briefing Hermes Bot
  
 - <h2> Certifications:</h2>
-  - [Web Developmment](link)
-  - [Comptia A+](link)
-  - [Certified in Cybersecurity(CC)](link)
+  - [Comptia CySA+](link)
+  - Comptia Pentest+](link)
   - [Comptia Security+](link)
+  - [Google AI Professional Certificate](link)
   - [Google Cybersecurity Professional Certificate](link)
 
 <h2> 🤳 Connect with me:</h2>
