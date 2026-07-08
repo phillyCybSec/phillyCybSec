@@ -60,5 +60,5 @@ I recently earned my **M.S. in Cybersecurity & Information Assurance** from WGU 
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=PhillyCybSec&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=phillyCybSec&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
