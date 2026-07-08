@@ -1,4 +1,4 @@
-<h1>Hi, I'm Philip! <br/><a href="https://github.com/phillyCybSec">Programmer</a>, <a href="https://www.linkedin.com/in/ptuan/">Cybersecurity Professional</a>
+<h1>Hi, I'm Philip! <br/><a href="https://github.com/phillyCybSec">SOC Analyst</a>, <a href="https://www.linkedin.com/in/ptuan/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
