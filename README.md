@@ -4,14 +4,14 @@
 
 I am an analytical, credentialed **Information Security Professional** with over 3 years of enterprise IT operations experience within a high-compliance, HIPAA-regulated environment (NYU Langone Health). I specialize in proactive threat hunting, alert triage, and enterprise endpoint defense, bridging the gap between infrastructure operations and rigorous security discipline.
 
-Currently, I am completing my **M.S. in Cybersecurity & Information Assurance** at WGU and building Python-driven automation tools to streamline Security Operations workflows.
+I recently earned my **M.S. in Cybersecurity & Information Assurance** from WGU and am actively building Python-driven automation tools to streamline Security Operations workflows.
 
 ---
 
 ### 🔍 About Me
 - 🔭 **Currently working on:** Building **IrisRecon**, an AI-integrated Python automation pipeline and Telegram bot for parsing security job frameworks and conducting threat-intel reconnaissance. 
 - 🏥 **Day-to-Day:** Securing enterprise infrastructure, auditing IAM/MFA policies, managing endpoint vulnerabilities via Intune, and triaging security event telemetry.
-- 🎓 **Education:** M.S. Cybersecurity & Information Assurance @ Western Governors University (*Expected May 2026*).
+- 🎓 **Education:** M.S. Cybersecurity & Information Assurance @ Western Governors University (*Conferred June 2026*).
 - 🚩 **Hobbies:** Solving Forensics & OSINT challenges in CTFs (PicoCTF), parsing `.pcap` files, and automating the boring stuff with Python & PowerShell.
 - 💬 **Ask me about:** MITRE ATT&CK mapping, phishing simulation platforms (GoPhish), and SIEM log analysis.
 
@@ -55,10 +55,10 @@ Currently, I am completing my **M.S. in Cybersecurity & Information Assurance** 
 
 ### 📫 Let's Connect
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-URL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ptuan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="mailto:ptuan1573@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" /></a>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PhillyCybSec&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
